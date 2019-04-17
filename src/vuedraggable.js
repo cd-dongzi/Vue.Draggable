@@ -173,7 +173,8 @@ const draggableComponent = {
 
     if (this.element !== "div") {
       console.warn(
-        "Element props is deprecated please use tag props instead. See https://github.com/SortableJS/Vue.Draggable/blob/master/documentation/migrate.md#element-props"
+        "Element props is deprecated please use tag props instead. See https://github.com/
+        JS/Vue.Draggable/blob/master/documentation/migrate.md#element-props"
       );
     }
 
